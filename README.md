@@ -5,7 +5,7 @@ A python object . Converting HTML to PDF.
 python 2.x
 ##Operating system (OS)：
 windows
-##Useage:
+##Usage:
 1.URL type:
 ```python
 from html2pdf import html2pdf
